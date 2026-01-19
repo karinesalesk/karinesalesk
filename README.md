@@ -1,4 +1,4 @@
-## 👋 Hi, I'm [Karine]
+## 👋 Hi, I'm Karine
 
 I'm a digital marketing professional transitioning into Data Analytics, with a strong focus on SQL and marketing performance analysis.
 
