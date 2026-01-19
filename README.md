@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi, I'm [Karine]
 
-<!--
-**karinesalesk/karinesalesk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a digital marketing professional transitioning into Data Analytics, with a strong focus on SQL and marketing performance analysis.
 
-Here are some ideas to get you started:
+### 🔎 What I work with
+- SQL (PostgreSQL)
+- Marketing metrics (ROI, CPA, CTR, Conversion Rate)
+- Campaign performance analysis
+- Business-oriented data insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Current focus
+- Building a portfolio with real-world marketing data cases
+- Applying data analysis to support decision-making
+
+### 🚀 Projects
+- Digital Marketing Campaign Performance Analysis (SQL)
+
+### 📫 Contact
+- LinkedIn: https://linkedin.com/in/karinesk
